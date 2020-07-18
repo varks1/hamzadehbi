@@ -1,0 +1,64 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "ascii-table": "^0.0.9",
+    "fs": "^0.0.2",
+    "imdb-api": "^4.0.3",
+    "novelcovid": "^1.2.6",
+    "quick.db": "^7.1.1",
+    "node-fetch": "^2.6.0",
+    "common-tags": "^1.8.0",
+    "fortnite": "^4.3.2",
+    "urban": "^0.3.2",
+    "ms": "^2.1.2",
+    "math": "^0.0.3",
+    "mongoose": "^5.9.13",
+    "moment": "^2.25.3",
+    "canvas": "^2.6.1",
+    "join": "^3.0.0",
+    "npm": "^6.14.5",
+    "npm-i": "^0.0.2",
+    "dateformat": "^3.0.3",
+    "duration": "^0.2.2",
+    "member": "^0.0.2",
+    "reaction-role": "^1.6.4",
+    "enmap": "^5.2.4",
+    "hastebin": "^0.2.1",
+    "canvas-constructor": "^3.2.0",
+    "parse-ms": "^2.0.0",
+    "list": "^2.0.19",
+    "discord": "^0.8.2",
+    "discord-message-handler": "^2.1.1",
+    "table": "^5.4.6",
+    "pretty-ms": "^7.0.0",
+    "http": "^0.0.0",
+    "fetch": "^1.1.0",
+    "fs-nextra": "^0.5.1",
+    "path": "^0.12.7",
+    "vultrex.db": "^1.4.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
